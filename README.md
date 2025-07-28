@@ -140,24 +140,13 @@ TWILIO_AUTH_TOKEN=your_twilio_auth_token
 TWILIO_PHONE_NUMBER=+1234567890
 ADMIN_USERNAME=admin
 ADMIN_PASSWORD=your_password
-```
-
----
-
-## 📷 Screenshots (Optional)
-
-*You can add demo screenshots of:*
-
-* Face detection in real-time
-* Attendance log interface
-* SMS notification alert sample
 
 ---
 
 ## 👩‍💻 Contributors
 
 * **Saranya S** – [saranyasubiramani29@gmail.com](mailto:saranyasubiramani29@gmail.com)
-* Other collaborators (if any)
+* Other collaborators Poorani R and Yamuna D
 
 ---
 
