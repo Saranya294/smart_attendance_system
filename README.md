@@ -140,7 +140,7 @@ TWILIO_AUTH_TOKEN=your_twilio_auth_token
 TWILIO_PHONE_NUMBER=+1234567890
 ADMIN_USERNAME=admin
 ADMIN_PASSWORD=your_password
-
+```
 ---
 
 ## 👩‍💻 Contributors
@@ -163,3 +163,10 @@ For questions, feedback, or contributions:
 🔗 **GitHub:** [github.com/Saranya294](https://github.com/Saranya294)
 
 ---
+## 🙏 Acknowledgement
+
+This project was inspired by and adapted from the open-source project:  
+[Smart-Attendance-Marking-System by Soumyadeep Mukherjee](https://github.com/SoumyadeepMukherjee/Smart-Attendance-Marking-System)  
+
+We thank the original author for providing the base implementation, which helped us build and customize our final year project.
+
