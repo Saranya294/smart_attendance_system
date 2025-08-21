@@ -148,11 +148,7 @@ ADMIN_PASSWORD=your_password
 * **Saranya S** – [saranyasubiramani29@gmail.com](mailto:saranyasubiramani29@gmail.com)
 * Other collaborators Poorani R and Yamuna D
 
----
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
